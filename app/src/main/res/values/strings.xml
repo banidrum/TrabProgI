@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AppP1</string>
+
+    <string-array name="cortes">
+
+        <item>Picanha</item>
+        <item>Costela</item>
+        <item>Contrafilé</item>
+        <item>Filé Mignon</item>
+        <item>Fraldinha</item>
+        <item>Maminha</item>
+        <item>Filé de costela</item>
+        <item>Alcatra</item>
+        <item>Cupim</item>
+        <item>Peito</item>
+
+    </string-array>
+
+    <string-array name="bebidas">
+
+        <item>Agua</item>
+        <item>Refrigerante</item>
+
+    </string-array>
+
+    <string-array name="trago">
+
+        <item>Cerveja</item>
+        <item>Vodka</item>
+        <item>Whisky</item>
+
+    </string-array>
+
+
+</resources>

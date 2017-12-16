@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/outrasbebidas"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="TextView" />
+
+    <EditText
+        android:id="@+id/num"
+        android:layout_width="5dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:scaleY="0.70"
+        android:scaleX="0.70"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/valor"
+        android:layout_width="7dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="number"
+        android:scaleX="0.70"
+        android:scaleY="0.70" />
+
+    <CheckBox
+        android:id="@+id/checkoutras"
+        android:layout_width="47dp"
+        android:layout_height="22dp"
+        android:layout_weight="1"
+        android:checked="false"
+        android:scaleX="0.70"
+        android:scaleY="0.70"
+        android:text="CheckBox" />
+
+
+</LinearLayout>
